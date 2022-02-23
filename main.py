@@ -5,13 +5,13 @@ from datetime import datetime
 
 TOKEN = ""
 URL_PIXE = "https://pixe.la/v1/users" 
-USERNAME = "chutdanai"
+USERNAME = ""
 SERVER = "graph1"
 TODAY = datetime.now()
 
 document_pixe = {
     "token": TOKEN,
-    "username": "chutdanai",
+    "username": USERNAME,
     "agreeTermsOfService": "yes",
     "notMinor": "yes"
 }
