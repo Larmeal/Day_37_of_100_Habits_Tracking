@@ -2,10 +2,8 @@ import json
 import requests
 from datetime import datetime
 
-LINK_IS = "https://pixe.la/v1/users/chutdanai/graphs/graph1.html"
 
-
-TOKEN = "bh4514sg4eg412s3421"
+TOKEN = ""
 URL_PIXE = "https://pixe.la/v1/users" 
 USERNAME = "chutdanai"
 SERVER = "graph1"
